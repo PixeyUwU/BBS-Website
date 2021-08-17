@@ -1,4 +1,5 @@
-# Bot Building Site - Website
+# Bot Building Site - Website (BETA)
+## Note: this is the beta branch of the website. To navigate to the master branch, head over to [here](/Module64/BBS-Website/tree/master).
 
 This is the official website for [Bot Building Site](https://discord.gg/2YdFEtKBM5).
 

@@ -1,4 +1,4 @@
-# Bot Building Site - Website (BETA)
+# Bot Building Site - Website [(BETA)](https://bbs-beta.pixeyuwu872635.repl.co/#)
 ## Note: this is the beta branch of the website. To navigate to the master branch, head over to [here](https://github.com/Module32/BBS-Website/tree/master).
 
 This is the official website for [Bot Building Site](https://discord.gg/2YdFEtKBM5).
